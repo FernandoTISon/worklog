@@ -1,0 +1,1 @@
+"This is a record of my study routine."
