@@ -1,0 +1,12 @@
+[
+    {
+        "date": "09/03/2022",
+        "author": "Fernando Terumasa Ikeda Son",
+        "email": "fernando.terumasa.ikeda@gmail.com",
+        "projects": [
+            "codewars - https://www.codewars.com/kata/525f50e3b73515a6db000b83",
+            "learn git breanching https://learngitbranching.js.org/?locale=pt_BR"
+        ],
+        "description": "Today I started my studies with a codewars exercise, then continued the git branching exercises I was studying yesterday."
+    }
+]
