@@ -1,0 +1,13 @@
+[
+    {
+        "date": "07/03/2022",
+        "author": "Fernando Terumasa Ikeda Son",
+        "email": "fernando.terumasa.ikeda@gmail.com",
+        "projects": [
+            "codewars - https://www.codewars.com/kata/563c13853b07a8f17c000022",
+            "rocketseat - https://app.rocketseat.com.br/node/o-guia-estelar-de-git",
+            "learn git breanching https://learngitbranching.js.org/?locale=pt_BR"
+        ],
+        "description": "today i started my studies with a codewars exercise, then i finished the rocketseat \"star guide to git\" module and finally i started the git breanching exercises."
+    }
+]
