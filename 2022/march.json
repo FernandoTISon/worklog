@@ -38,5 +38,16 @@
             "freecodecamp - https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page"
         ],
         "description": "Today I started a project from freecodecamp"
+    },
+    {
+        "date": "15/03/2022",
+        "author": "Fernando Terumasa Ikeda Son",
+        "email": "fernando.terumasa.ikeda@gmail.com",
+        "projects": [
+            "codewars - https://www.codewars.com/kata/5208f99aee097e6552000148",
+            "freecodecamp - https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page"
+        ],
+        "description": "Today I started my studies with a codewars exercise, before continue the freecodecamp project"
     }
 ]
+
