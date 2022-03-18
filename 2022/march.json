@@ -58,6 +58,17 @@
             "learn git breanching https://learngitbranching.js.org/?locale=pt_BR"
         ],
         "description": "Today I started my studies with a codewars exercise, before continue the git branching exercises that i did'nt finished las week"
+    },
+    {
+        "date": "17/03/2022",
+        "author": "Fernando Terumasa Ikeda Son",
+        "email": "fernando.terumasa.ikeda@gmail.com",
+        "projects": [
+            "codewars - https://www.codewars.com/kata/595519279be6c575b5000016",
+            "learn git breanching https://learngitbranching.js.org/?locale=pt_BR"
+        ],
+        "description": "Today I started my studies with a codewars exercise, before continue the git branching exercises that i did'nt finished."
     }
+    
 ]
 
