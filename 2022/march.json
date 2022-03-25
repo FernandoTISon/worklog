@@ -88,7 +88,17 @@
             "learn git breanching https://learngitbranching.js.org/?locale=pt_BR",
             "freecodecamp - https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page"
         ],
-        "description": "Today I started my studies with two codewars exercises, before finishing the git branching exercises and continuing the preecodecamp project."
+        "description": "Today I started my studies with two codewars exercises, before finishing the git branching exercises and continuing the freecodecamp project."
+    },
+    {
+        "date": "24/03/2022",
+        "author": "Fernando Terumasa Ikeda Son",
+        "email": "fernando.terumasa.ikeda@gmail.com",
+        "projects": [
+            "codewars - https://www.codewars.com/kata/5899642f6e1b25935d000161 and https://www.codewars.com/kata/523b66342d0c301ae400003b",
+            "freecodecamp - https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page"
+        ],
+        "description": "Today I started my studies with two codewars exercises, before continuing the freecodecamp project."
     }
     
 ]
